@@ -1,3 +1,7 @@
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/84645968/217646538-88eafe99-a743-4bab-9d55-5e492859d218.png" alt="MasterHead"/>
+</p>
+
 # BG-NBD-and-Gamma-Gamma-for-CLTV-Prediction
 
 ## Probabilistic Customer Lifetime Value (CLTV) Estimation with Time Projection
